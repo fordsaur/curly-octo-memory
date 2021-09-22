@@ -1,0 +1,85 @@
+body{
+	box-sizing: border-box;
+	background-color:orange;
+}
+.margin2{
+	margin-top: 12%;
+}
+.program{
+	color:maroon;
+	font-family: verdana;
+	font-size:30px; 
+}
+
+.flex{
+	display:flex;
+	flex-direction:row;
+}
+.one{
+	background-color:lightblue;
+width:30%;
+outline-style: dashed;
+  	outline-color: maroon;
+  	padding: 5px;
+}
+.one ul li{
+	list-style: none;
+	font-size: 28px;
+	text-align: center;
+} 
+.mark{
+	text-align: right;
+}
+.margin1{
+	margin-top: 22%;
+	padding: 20px;
+}
+.second{
+	width:70%;
+	padding:25px;
+	
+}
+color
+.block{
+	display: block;
+}
+.inline
+{
+	display: inline-block;
+}
+.text1{
+	text-align: left;
+ 
+
+}
+.t1{
+	list-style: none;
+}
+.text2{
+	text-align:left;
+	display: block;
+	padding: 10px;
+	
+}
+.second h1{
+	text-align: center;
+	font-size:40px;
+	font-family:verdana;
+	color:teal
+	margin:5px;
+}
+.colorone{
+	color:indigo;
+}
+.colortwo{
+	background-color:maroon;
+}
+.second p{
+	text-align: center;
+}
+@media only screen and (max-width: 600px) {
+
+.img{
+	float: none;
+}
+}
